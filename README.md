@@ -6,5 +6,9 @@
 Разработка проекта автотестирования выполнена по паттерну PageObject. Для разработки автотестов применялись библиотеки pytest, pytest-selenium. 
 Использовались фикстуры, фикстуры параметризации, явные и неявные ожидания драйвером, различные способы описания локаторов (СSS_SELECTOR, XPATH, ID, CLASS_NAME, NAME). 
 
+1.Для тестов страницы авторизации: python3 -m pytest -v --driver Chrome --driver-path /driver/chromedriver tests/test_auth_page.py
 
+2.Для тестов страницы регистрации: python3 -m pytest -v --driver Chrome --driver-path /driver/chromedriver tests/test_reg_page.py
+
+3.Для тестов страницы восстановления пароля: python3 -m pytest -v --driver Chrome --driver-path /driver/chromedriver tests/test_reset_page.py
 
