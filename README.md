@@ -1,4 +1,4 @@
-Тест-кейсы и баг-репорты ( https://docs.google.com/spreadsheets/d/1YGowteOqKqR1prQ2_wsXgLfDN4-_XzQ2tt0kazGbQi4/edit?hl=ru#gid=1715534994)
+Тест-кейсы и баг-репорты (https://docs.google.com/spreadsheets/d/1MMXxl_LPs7AARgDa1BZXmrRvufyAw_YbGEI8fH2Jwtw/edit#gid=1715534994)
 
 Для разработки тест-кейсов использованы методы "черного ящика", функционального тестирование, UX тестирование. 
 Так же использованы техники тест дизайна : диаграмма состояний и переходов, классы эквивалентности, граничные значения и попарное тестирование.
